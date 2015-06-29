@@ -58,4 +58,14 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="smplReport1.sql" />
+    <Build Include="smplStoredProc1.sql" />
+    <Build Include="smplStoredProc2.sql" />
+    <Build Include="smplReport2.sql" />
+    <Build Include="tblSprzedazPrenumeraty.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="smplTypDef.sql" />
+  </ItemGroup>
 </Project>

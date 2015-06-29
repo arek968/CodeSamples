@@ -8,5 +8,8 @@ namespace csCodeSamples
 {
     public class Class1
     {
+     
+        //nsole
+
     }
 }
